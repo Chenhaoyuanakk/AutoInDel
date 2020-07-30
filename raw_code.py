@@ -1,4 +1,4 @@
-from tkinter.filedialog import *
+1from tkinter.filedialog import *
 from tkinter.messagebox import *
 import base64
 import webbrowser
