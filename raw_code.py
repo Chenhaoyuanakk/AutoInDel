@@ -13,7 +13,7 @@ tmp.close()
 window.iconbitmap('temp.ico')
 os.remove("temp.ico")
 def open_url(event):
-    webbrowser.open("http://www.baidu.com", new=0)
+    webbrowser.open("https://github.com/Chenhaoyuanakk/AutoInDel", new=0)
 def contact():
     showinfo(title='Contact us', message = 'Email  :  weizhen@zzu.edu.cn\n\n               chenhy@163.com')
 
